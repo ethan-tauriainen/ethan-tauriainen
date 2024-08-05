@@ -1,4 +1,4 @@
-Software Developer at DISH Technologies.
+Software Engineer at Clarivate.
 
 <!---
 ethan-tauriainen/ethan-tauriainen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
